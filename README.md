@@ -1,2 +1,2 @@
-# intprog2vize
+# haber-api
 Haber Portalı api çalışması
